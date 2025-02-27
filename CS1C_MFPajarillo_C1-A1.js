@@ -1,10 +1,10 @@
 //C1-A1: Variable/Constants Declaration and String Concatenation Methods
 
 // Student's Information
-let myname = "Rizalyn Donato Domitita";
-let birthdate = "November 13, 2005";
-let birthplace = "Southern Ilocos Sur Dist. Hospital- Tagudin, Ilocos Sur, Philippines 2714";
-let address = "Al-Aludig, Santiago, Ilocos Sur, Philippines 2707";
+let myname = "May Flor Guray Pajarillo"; 
+let birthdate = "August 14, 2006";
+let birthplace = "Gabriela Silang General Hospital- Vigan City, Ilocos Sur, Philippines 2700";
+let address = "Manaboc, Burgos, Ilocos Sur, Philippines 2724";
 let course = "Bachelor of Science in Computer Science";
 let dreamJob = "Software Engineer";
 
@@ -16,10 +16,10 @@ let address_uppercase = address.toUpperCase();
 let course_lowercase = course.toLowerCase();
 
 // Classmate 1's Information
-let classmate1Name = "May Flor Pajarillo";
-let classmate1Birthdate = "August 14, 2006";
-let classmate1Birthplace = "Gabriela Silang General Hospital- Vigan City, Ilocos Sur, Philippines 2700";
-let classmate1Address = "Manaboc, Burgos, Ilocos Sur, Philippines 2724";
+let classmate1Name = "Rizalyn Donato Domitita";
+let classmate1Birthdate = "November 13, 2005";
+let classmate1Birthplace = "Southern Ilocos Sur Dist. Hospital- Tagudin, Ilocos Sur, Philippines 2714";
+let classmate1Address = "Al-Aludig, Santiago, Ilocos Sur, Philippines 2707";
 let classmate1Course = "Bachelor of Science in Computer Science";
 let classmate1DreamJob = "Software Engineer";
 
